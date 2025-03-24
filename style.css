@@ -1,0 +1,18 @@
+#abaid{
+    font-size: 50px;
+    text-align: center;
+    background-color: aqua;
+    margin-left: 30px;
+}
+
+#d{
+    background-color: rgb(231, 247, 13);
+    height: 800px;
+    width: 180px;
+    padding-left: 10PX;
+    padding-top: 10PX;
+    margin-left: 30px;
+}
+#m{
+    font-size: small;
+}
